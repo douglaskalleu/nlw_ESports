@@ -1,11 +1,11 @@
 # NLW eSports - Trilha Ignite
 
-Projeto desenvolvido na trilha Ignite durante a NLW eSports da Rocketseat.
+Project developed on the Ignite trail during [Rocketseat's](http://www.rocketseat.com.br/) NLW eSports.
 <p align="center">
   <img src="https://github.com/douglaskalleu/nlw_ESports/blob/main/web/src/assets/logo-nlw-esports.svg" />
 </p>
 
-<h1 align="center">NLW eSports - Ignite</h1>
+<h1 align="center">Let's play together with eSports</h1>
 
 ## Tecnologias:
 
@@ -22,12 +22,3 @@ Projeto desenvolvido na trilha Ignite durante a NLW eSports da Rocketseat.
 - Node.JS
 - Express
 - Prisma ( SQLite )
-
-
-## TO DO's
-- [ ] Responsividade
-- [ ] Adicionar listagem para mais de 6 jogos (keen-slider)
-- [ ] Utilizar Select do Radix
-- [ ] Validar Form de Criação de Ads (zod, react-hook-form)
-- [ ] Autenticacao via Discord
-- [ ] Adicionar Notificações Mobile
